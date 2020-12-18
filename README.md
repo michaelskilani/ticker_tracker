@@ -9,7 +9,8 @@ Sends formatted result to discord server `#high-volume-top-movers` through Webho
 
 
 # To get started
-If you have PycharmCE, hit the play button. literally
+If you have PycharmCE: hit the play button. literally
+
 From command line: `python3 main.py`
 
 
