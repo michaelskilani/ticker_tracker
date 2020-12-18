@@ -1,5 +1,9 @@
 # ticker_tracker
-Script to pull highest daily gainers from the day's Trading Session. 
+Script to pull the 10 highest daily gainers from the day's Trading Session. 
+Calculates percent increase in Daily Volume, and compares 50 and 200 Day Moving Average. 
+Sends formatted result to discord server `#high-volume-top-movers` through Webhook. 
+
+
 
 
 # To get started
