@@ -1,7 +1,7 @@
 # ticker_tracker
 Script to pull the 10 highest daily gainers from the day's Trading Session. 
 
-Calculates percent increase in Daily Volume, and compares 50 and 200 Day Moving Average. 
+Calculates percent increase in 1 / 7 / 30 Day Average Volume, and compares 50 and 200 Day Moving Average. 
 
 Sends formatted result to discord server `#high-volume-top-movers` through DiscordWebhook. 
 
